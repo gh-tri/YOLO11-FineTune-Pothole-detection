@@ -4,7 +4,7 @@ This repository contains the Jupyter notebook to fine-tune a YOLO11-based detect
 We train YOLOv11s and YOLOv11m on a custom pothole detection dataset.
 
 - The four training experiments are:
-  - Fine tuning YOLOv7 with fixed resolution images.
-  - Fine tuning YOLOv7 with multi-resolution images.
-  - Fine tuning YOLOv7-Tiny with fixed resolution images.
-  - Fine tuning YOLOv7-Tiny with multi-resolution images.
+  - Fine tuning YOLOv11s with fixed resolution images.
+  - Fine tuning YOLOv11s with multi-resolution images.
+  - Fine tuning YOLOv11m with fixed resolution images.
+  - Fine tuning YOLOv11m with multi-resolution images.
